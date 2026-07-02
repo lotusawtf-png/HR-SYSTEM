@@ -83,11 +83,11 @@ return [
     'chatbot:index'   => 'chatbot.index',
     'chatbot:audit'   => 'chatbot.index',
 
-    // ─── System ──────────────────────────────────────────────────────
+    // ─── System  cho Binh ────────────────────────────────────────────
     'systemhealth:index' => 'systemhealth.index',
     'auditlog:index'     => 'auditlog.index',
 
-    // ─── Auth ────────────────────────────────────────────────────────
+    // ─── Auth dog Binh ───────────────────────────────────────────────
     'home:login'    => 'login.form',
     'home:logout'   => 'logout.bridge',
     'home:settings' => 'settings.show',
